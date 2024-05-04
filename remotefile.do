@@ -29,6 +29,6 @@ qui {
 		
     }
 	
-}
-
-noi di "Hello, Class!!!"  
+}    
+    
+noi di "Hello, Class!!!"      
