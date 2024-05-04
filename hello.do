@@ -2,4 +2,4 @@ forvalues i = 1/9 {
    di `i'
 }
 
-di "Hello, class!" - From GitHub
+di "Hello, class! - From GitHub"
